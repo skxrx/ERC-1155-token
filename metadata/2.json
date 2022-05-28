@@ -1,0 +1,23 @@
+{
+  "name": "Roflan",
+  "description": "Roflan...???",
+  "image": "ipfs://QmanPcKaHnkfJNVVm9YqqKFb4iBjJYDaMjjkkTHK7HryiS",
+    "attributes": [
+    {
+      "trait_type": "Classic", 
+      "value": "1"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "yellow"
+    }, 
+    {
+      "trait_type": "Power", 
+      "value": 1
+    }, 
+    {
+      "trait_type": "Class", 
+      "value": "PapichHat"
+    }
+  ]
+}
